@@ -1,4 +1,4 @@
-One if the most important aspect of Datascience is Regular Expressions or REGEX.
+One of the most important aspect of Datascience is Regular Expressions or REGEX.
 Regex can be used to search, extract, validate, or transform text based on specified patterns such as extracting Years from a Wikipedia page or extracting numbers of particular time maybe 
 Roman Expressions or Co-ordinates format or Date-Time format and extracting text strings of particular type.
 It is important to learn Regular Expressions due to its wide applications in Natural Language Processing(NLP),
